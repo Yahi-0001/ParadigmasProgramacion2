@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>PPII_05_YGM</artifactId>
+=======
+    <artifactId>PP_2</artifactId>
+>>>>>>> 834e96238e6d0c3e18954b86b411db4a262225fb
     <version>1.0-SNAPSHOT</version>
 
     <properties>
